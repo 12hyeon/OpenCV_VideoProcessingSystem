@@ -1,4 +1,4 @@
-# OpenCV Video Processing System
+# OpenCV 영상 정보 처리
 
 `디지털 영상의 개선, 복원, 변환, 분석, 인식 등 다양한 영상처리 기술 학습`
 
